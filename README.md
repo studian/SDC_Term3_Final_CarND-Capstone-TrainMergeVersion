@@ -135,7 +135,7 @@ a projected trajectory for the car.
 ## 4) Project Simulation Result
 
 <p align="left">
-    <img src="./imgs/final-2017-10-14_22.56.48.gif" width="480" alt="main_image" /><br>
+    <img src="./imgs/final-2017-10-14_22.56.48.gif" alt="main_image" /><br>
     <b>Figure 4. Project Result</b><br>
 </p>
 
