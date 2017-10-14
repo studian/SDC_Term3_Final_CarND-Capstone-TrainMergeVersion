@@ -68,6 +68,7 @@ a projected trajectory for the car.
 - node files:
 	- `tl_detector/tl_detector.py`: node file
 	- `tl_detector/light_classification/tl_classifier.py`: classifier file
+	- `tl_detector/light_classification/optimized_graph.pb`: tensorflow model and weight file
 	
 #### 1-2. Obstacle Detector
 
@@ -162,6 +163,8 @@ git clone https://github.com/udacity/CarND-Capstone.git
 ```bash
 cd CarND-Capstone
 pip install -r requirements.txt
+pip uninstall tensorflow
+pip install tensorflow-gpu==1.0.0
 ```
 #### 2-3. Make and run styx
 
