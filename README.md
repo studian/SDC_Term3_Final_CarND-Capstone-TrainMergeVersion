@@ -4,13 +4,13 @@ This is the project repo for the final project of the Udacity Self-Driving Car N
 
 * Team : GiantCar
 
-| Name           | Udacity account       |
-|:---------------|:----------------------|
-| Kim HyunKoo    | studian@gmail.com     |
-| Duong Hai Long | dhlong.hp@gmail.com   |
-| Lee Wonjun     | mymamyma@gmail.com    |
-| Xing Jin       | xingjin2017@gmail.com |
-| Zhao Minming   | minmingzhao@gmail.com |
+| Name           | Udacity account       | Slack Handle | Time Zone         |
+|:---------------|:----------------------|--------------|-------------------| 
+| Kim HyunKoo    | studian@gmail.com     | @hkkim       | UTC+9 (KST)       |
+| Duong Hai Long | dhlong.hp@gmail.com   | @3x3eyes     | UTC+8 (Singapore) |
+| Lee Wonjun     | mymamyma@gmail.com    | @mymamyma    | UTC -8 (PST)      |
+| Xing Jin       | xingjin2017@gmail.com | @xing2017    | UTC -8 (PST)      |
+| Zhao Minming   | minmingzhao@gmail.com | @minmingzhao | UTC -8 (PST)      |
 
 ## 1) Introduction
 
